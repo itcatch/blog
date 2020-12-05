@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+What about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Passionate developer. Share skills and thoughts. #web #automation #freelance
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Linkedin profile](https://www.linkedin.com/in/robert-chiu-9a2331100/)

@@ -1,4 +1,3 @@
-
 ---  
 layout: post  
 title: Call your bank and save instantly on your home-loan  
@@ -7,8 +6,6 @@ tags: finance interest rate reduce money
 ---  
   
 ## Instant saving on your home loan  
-  
-  
 With Australia's record low interest rate at a **0.25%**. This is really bad news for people who have savings in the bank. However, if you have a home loan/mortgage, it might be worth reviewing it right now if you are on a *variable* terms.  
   
 I have a reminder set up to do a **loan review**, and now is a good time to get your finance sorted before Christmas and ready for the New Year.  
